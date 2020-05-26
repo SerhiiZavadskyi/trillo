@@ -1,3 +1,3 @@
 # trillo
 
-https://zavadskyi.github.io/trillo/
+[Demo](https://zavadskyi.github.io/trillo/)
