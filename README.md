@@ -1,3 +1,3 @@
 # trillo
 
-[Demo](https://zavadskyi.github.io/trillo/)
+[Demo](https://serhiizavadskyi.github.io/trillo/)
